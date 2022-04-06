@@ -16,10 +16,11 @@ SimpleAppLock is completely made of built-in linux commands.
 So, it can be easily integrated with any popular Linux Distributions
 
 #How to Setup
-Either clone the repo or download the applock.sh file
+
+Either clone the repo or download the applock.sh file.
 Make it executable and run from terminal
-  chmod u+x applock.sh
-  ./applock.sh
+  
+  chmod u+x applock.sh && ./applock.sh
 
 Enjoy your applock for linux !
 
