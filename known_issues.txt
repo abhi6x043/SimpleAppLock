@@ -1,0 +1,6 @@
+
+0. Only apps listed in /usr/share/applications are currently applied
+1. Update password option not available right now
+2. Multiple shell like zsh on a default bash is not integrated
+3. If mistakenly/intentionally setup applock twice or more  times for the same app, 
+then conf_bak files will be overwrittena and default configurations will be lost. 
